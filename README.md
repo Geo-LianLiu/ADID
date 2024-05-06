@@ -1,4 +1,4 @@
-# ADID
+# ADID: for a linear system of equations
 
 ### Install
 - Install Anaconda and create a new environment
