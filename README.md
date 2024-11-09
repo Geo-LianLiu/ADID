@@ -14,15 +14,4 @@
   `conda install -c main tensorflow==2.11 or conda install tensorflow==2.11`
 
 ### Cite
-
-@article{liu2024,
-	title = {Calculating sensitivity or gradient for geophysical inverse problems using automatic and implicit differentiation},
-	volume = {193},
-	issn = {00983004},
-	doi = {10.1016/j.cageo.2024.105736},
-	journal = {Computers \& Geosciences},
-	author = {Liu, Lian and Yang, Bo and Zhang, Yi and Xu, Yixian and Peng, Zhong and Yang, Dikun},
-	month = nov,
-	year = {2024},
-	pages = {105736},
-}
+Liu, L., Yang, B., Zhang, Y., Xu, Y., Peng, Z. & Yang, D., 2024. Calculating sensitivity or gradient for geophysical inverse problems using automatic and implicit differentiation. Computers & Geosciences, 193, 105736. doi:10.1016/j.cageo.2024.105736
